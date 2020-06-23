@@ -1,0 +1,43 @@
+{
+  "stringTable": {
+    "0": "C:/_dev/my/hechang/hechang/app/.cxx/cmake/debug/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/QCL/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/QCL/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dapm_plugin_raw_data_api_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fno-experimental-isel -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\QCL\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\QCL\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\build\\cmake\\android.toolchain.cmake",
+    "C:\\_dev\\my\\hechang\\hechang\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\QCL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\_dev\\my\\hechang\\hechang\\app\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\QCL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\_dev\\my\\hechang\\hechang\\app\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "apm-plugin-raw-data-api-Debug-arm64-v8a": {
+      "buildCommand": "C:\\Users\\QCL\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\_dev\\my\\hechang\\hechang\\app\\.cxx\\cmake\\debug\\arm64-v8a\" apm-plugin-raw-data-api",
+      "buildType": "debug",
+      "toolchain": "450848866",
+      "abi": "arm64-v8a",
+      "artifactName": "apm-plugin-raw-data-api",
+      "files": [
+        {
+          "src": "C:\\_dev\\my\\hechang\\hechang\\app\\src\\main\\cpp\\media_preprocessing_plugin_jni.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\_dev\\my\\hechang\\hechang\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libapm-plugin-raw-data-api.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "450848866": {
+      "cppCompilerExecutable": "C:\\Users\\QCL\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

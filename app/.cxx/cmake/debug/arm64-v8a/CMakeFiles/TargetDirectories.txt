@@ -1,0 +1,3 @@
+C:/_dev/my/hechang/hechang/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/apm-plugin-raw-data-api.dir
+C:/_dev/my/hechang/hechang/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/_dev/my/hechang/hechang/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir

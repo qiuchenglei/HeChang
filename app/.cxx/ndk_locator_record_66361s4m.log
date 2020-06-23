@@ -1,0 +1,42 @@
+[
+  {
+    "level": "INFO",
+    "message": "android.ndkVersion from module build.gradle is not set"
+  },
+  {
+    "level": "INFO",
+    "message": "ndk.dir in local.properties is C:\\Users\\ChengleiQiu\\AppData\\Local\\Android\\Sdk\\ndk-bundle"
+  },
+  {
+    "level": "INFO",
+    "message": "ANDROID_NDK_HOME environment variable is not set"
+  },
+  {
+    "level": "INFO",
+    "message": "sdkFolder is C:\\Users\\QCL\\AppData\\Local\\Android\\Sdk"
+  },
+  {
+    "level": "INFO",
+    "message": "Considering C:\\Users\\ChengleiQiu\\AppData\\Local\\Android\\Sdk\\ndk-bundle by ndk.dir"
+  },
+  {
+    "level": "INFO",
+    "message": "Considering C:\\Users\\QCL\\AppData\\Local\\Android\\Sdk\\ndk-bundle in SDK ndk-bundle folder"
+  },
+  {
+    "level": "INFO",
+    "message": "Considering C:\\Users\\QCL\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944 in SDK ndk folder"
+  },
+  {
+    "level": "INFO",
+    "message": "Rejected C:\\Users\\ChengleiQiu\\AppData\\Local\\Android\\Sdk\\ndk-bundle by ndk.dir because that location has no source.properties"
+  },
+  {
+    "level": "ERROR",
+    "message": "Location specified by ndk.dir (C:\\Users\\ChengleiQiu\\AppData\\Local\\Android\\Sdk\\ndk-bundle) did not contain a valid NDK and and couldn\u0027t be used"
+  },
+  {
+    "level": "INFO",
+    "message": "Using C:\\Users\\QCL\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944 which is version 20.1.5948944 as fallback but build will fail"
+  }
+]

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/_dev/my/hechang/hechang/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "C:\\Users\\QCL\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/QCL/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/QCL/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dapm_plugin_raw_data_api_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info -fno-experimental-isel  -fPIC   -o CMakeFiles\\apm-plugin-raw-data-api.dir\\src\\main\\cpp\\media_preprocessing_plugin_jni.cpp.o -c C:\\_dev\\my\\hechang\\hechang\\app\\src\\main\\cpp\\media_preprocessing_plugin_jni.cpp",
+  "file": "C:/_dev/my/hechang/hechang/app/src/main/cpp/media_preprocessing_plugin_jni.cpp"
+}
+]
